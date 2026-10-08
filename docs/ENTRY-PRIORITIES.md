@@ -29,6 +29,7 @@ As of the current evidence cutoff:
 - final utilisation status is not treated as resolved
 - the project was still under sixth-phase Framework Programme consideration in September 2026
 - white-tailed-eagle uncertainty remains a material issue
+- the developer publishes a Geiradalur connection concept, but current Landsnet capacity / timing / reinforcement conditions are not established
 - no public evidence reviewed here establishes an open relevant works package
 
 ### Trigger
@@ -36,7 +37,7 @@ As of the current evidence cutoff:
 Deepen commercial preparation when one of these occurs:
 
 - final framework / utilisation decision
-- grid milestone
+- current project-specific Landsnet connection finding or equivalent grid milestone
 - financing / construction timing announcement
 - procurement notice
 - civil / foundation contracting signal

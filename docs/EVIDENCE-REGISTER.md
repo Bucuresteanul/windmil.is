@@ -345,6 +345,94 @@ For both BUF05 road construction and BUF10 structures, Landsvirkjun published ca
 
 **Decision relevance:** A future cost model for civil works should prepare for environmental / carbon evaluation as a competitive variable, not only nominal price.
 
+
+---
+
+## E-016 — Landsnet's System Plan 2025–2034 is formally approved
+
+**Type:** FACT  
+**Date:** 2026-04-10  
+**Source:** Landsnet  
+**Source link:** https://www.landsnet.is/utgafa-og-samskipti/frettir/frett/?documentid=010b067b-a3ab-4fac-82cb-7fc706ea93f5
+
+The Electricity Regulatory Authority approved Landsnet's System Plan 2025–2034, establishing the formal ten-year transmission-development framework and a near-term execution programme.
+
+**Decision relevance:** Wind-project grid screening should use the current approved system plan rather than old assumptions.
+
+---
+
+## E-017 — Generator connection requires a project-specific Landsnet process
+
+**Type:** FACT  
+**Accessed:** 2026-10-08  
+**Source:** Landsnet  
+**Source links:**
+- https://www.landsnet.is/page/17e981c5-10b3-42cc-8ed2-91425c8e298c
+- https://www.landsnet.is/vidskipti/vidskiptavinir/nyr-vidskiptavinur/fyrirspurn-um-tengingu/
+
+Landsnet's preliminary connection process analyses possible connection points, transmission capacity, required reinforcement, timing and estimated connection cost from project-specific information.
+
+The preliminary result is non-binding.
+
+**Decision relevance:** Proximity to transmission infrastructure is not sufficient evidence of connection readiness.
+
+---
+
+## E-018 — Garpsdalur has a plausible connection concept but current grid readiness is unresolved
+
+**Type:** FACT + UNKNOWN  
+**Sources:** EM Orka; Landsnet  
+**Source links:**
+- https://www.emorka.is/project
+- https://www.landsnet.is/library/?itemid=37713e59-8982-4c20-bd85-ae3deb4cfb27
+
+EM Orka states that Garpsdalur is approximately 6 km from Landsnet's 132 kV Geiradalur substation, describes an assumed 132 kV connection concept and states that a grid-integration study was conducted with Landsnet in 2019.
+
+Landsnet's current execution-plan analysis separately documents low system strength and voltage-quality constraints in the Westfjords network including Geiradalur.
+
+**Decision relevance:** The physical connection concept is credible enough to investigate, but current connection capacity, timing, reinforcement and cost remain unresolved.
+
+---
+
+## E-019 — Þorlákshöfn is receiving major transmission reinforcement
+
+**Type:** FACT  
+**Source:** Landsnet  
+**Source link:** https://www.landsnet.is/framkvaemdir/yfirlit-framkvaemda/framkvaemd/hveragerdi-thorlakshofn
+
+Landsnet is developing the approximately 21 km Þorlákshafnarlína 2 to strengthen the system serving Þorlákshöfn, with energisation planned for late 2027.
+
+**Decision relevance:** This is a positive regional infrastructure signal for projects near Þorlákshöfn.
+
+**Boundary:** No project-specific capacity allocation to wpd's Þorlákshafnargarður is established here.
+
+---
+
+## E-020 — Garpsdalur has a published historical connection-cost benchmark
+
+**Type:** FACT ABOUT PUBLISHED ESTIMATE  
+**Source:** official Framework Programme supporting material  
+**Source link:** https://samradapi.island.is/api/Documents/89ea7a76-9cb8-ef11-9bc8-005056bcce7e
+
+The published Landsnet-derived estimate for Garpsdalur was ISK 1,076 million, or ISK 1,345 million including a 25% uncertainty allowance.
+
+**Decision relevance:** Grid connection is a material project-economic line item.
+
+**Boundary:** This is not a current quote or evidence of available capacity.
+
+---
+
+## FINDING-004 — Grid readiness can reorder the project pipeline
+
+**Classification:** INFERENCE  
+**Confidence:** High.
+
+Environmental maturity and developer activity should not determine target priority by themselves.
+
+A project with a credible, current transmission path may deserve more commercial attention than a larger or more advanced-looking concept whose grid path remains G0–G1.
+
+Accordingly, grid readiness is now an independent gate in the windmil.is decision model.
+
 # Stop Rule
 
 Do not expand this register into a general Iceland energy encyclopedia.

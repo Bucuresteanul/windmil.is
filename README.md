@@ -93,6 +93,7 @@ See:
 - [Evidence Register](./docs/EVIDENCE-REGISTER.md)
 - [Public Project Pipeline](./docs/PIPELINE.md)
 - [Regulatory Gate](./docs/REGULATORY-GATE.md)
+- [Grid Gate](./docs/GRID-GATE.md)
 - [Public Entry Priorities](./docs/ENTRY-PRIORITIES.md)
 - [Qualification & Access Gate](./docs/QUALIFICATION-AND-ACCESS.md)
 - [Vaðalda Procurement Benchmark](./docs/VADALDA-PROCUREMENT-BENCHMARK.md)

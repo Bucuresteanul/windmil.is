@@ -106,6 +106,24 @@ See [Qualification & Access Gate](./QUALIFICATION-AND-ACCESS.md).
 
 ---
 
+## Grid
+
+**Status:** MATERIAL / PROJECT-SPECIFIC GATE
+
+Landsnet's System Plan 2025–2034 is approved and significant reinforcement is underway, but regional investment must not be confused with project-specific connection availability.
+
+Current public classifications:
+
+- Vaðalda — **G4 / operating benchmark**
+- Garpsdalur — **G1 / credible concept, current capacity unresolved**
+- Þorlákshafnargarður — **G0–G1 / regional reinforcement signal, project allocation unknown**
+- Brekknaheiði / Sauðanesháls — **G0 in this public repository**
+- Sólheimar — **G0 in this public repository**
+
+See [Grid Gate](./GRID-GATE.md).
+
+---
+
 ## Regulatory
 
 **Status:** MATERIAL GATE

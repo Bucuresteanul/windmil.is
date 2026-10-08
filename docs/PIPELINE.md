@@ -182,10 +182,21 @@ Current Greenvolt Power material describes the project as 88.2 MW / 21 turbines.
 - ministerial support for utilisation-category treatment has existed
 - construction scale is directly relevant to foundations and civil works
 
+### Grid position
+
+EM Orka publishes a 132 kV connection concept to Geiradalur and states that a grid-integration study was conducted with Landsnet in 2019.
+
+That is useful evidence of a plausible route, but it is not a current capacity commitment. Landsnet's current planning material documents regional Westfjords system-strength and voltage constraints.
+
+**Public grid classification:** G1 — concept established; current connection conditions unresolved.
+
+See [Grid Gate](./GRID-GATE.md).
+
 ### Why it is not bid-ready
 
 - framework status still requires confirmation
 - environmental / eagle issue remains material
+- current grid capacity, reinforcement, timing and cost are not established
 - no relevant open construction package has been established publicly
 - contracting architecture for civil / foundation scope is not yet established here
 
