@@ -1,116 +1,184 @@
-# [Project name]
+# windmil.is
 
-[One sentence explaining the purpose—not an unsupported capability claim.]
+**Wind-energy infrastructure initiative for Iceland**
 
-**Status:** [Historical | Research | Concept | Prototype | Active | Production | Archived]
-**Maintenance:** [Ongoing | Limited | None]
+windmil.is is an active market-entry and project-intelligence initiative focused on understanding where and under what conditions specialist infrastructure capability can participate credibly in Icelandic wind-energy projects.
 
-<!-- Optional: add "Maturity: Prototype" when Status is Active.
-Replace placeholders and remove instructional comments before publication.
-Remove optional sections that have no useful content. -->
+**Status:** Active  
+**Current phase:** Research · Market entry · Delivery readiness  
+**Maintenance:** Ongoing  
+**Public website:** https://windmil.is
+
+---
 
 ## Problem
 
-[Who or what is affected? What problem is being addressed?]
-[Why does it matter? State evidence or label the assumption.]
+The core question is not whether wind energy exists as an opportunity in Iceland.
+
+It is whether a specialist infrastructure entrant can identify a real, qualified and economically defensible route into projects there—without confusing market interest, announced projects or technical potential with contractable work.
+
+The project therefore separates:
+
+- market potential from executable opportunity
+- announced capacity from funded and permitted projects
+- technical capability from local qualification requirements
+- strategic interest from bid-ready opportunity
+- public evidence from assumptions and private commercial information
+
+---
 
 ## Current State
 
 ### Exists now
 
-[Available artifacts or implemented capabilities, with links and boundaries.
-If only a proposal exists, say so.]
+- A defined Iceland-focused market-entry initiative.
+- A structured research program covering market, regulation, grid, project pipeline, procurement, execution conditions and commercial risk.
+- A public GitHub hub for project documentation and decision logic.
+- A public project domain at https://windmil.is.
 
-### Experimental
+### Under evaluation
 
-[Available work whose reliability, validity or suitability remains unproven.
-Write "None" or remove this subsection when not applicable.]
+The commercial delivery scope being evaluated includes:
 
-### Planned
+- wind-turbine foundations and related civil works
+- turbine erection and assembly support
+- project delivery readiness
+- local qualification and contracting requirements
+- execution economics and risk
 
-[Work that does not exist yet. Separate committed scope from possible ideas.
-Write "None" when no further work is planned.]
+Exact contracted scope, counterparties and project participation remain subject to evidence and qualification.
 
-### Historical
+### Not claimed
 
-[OPTIONAL — earlier artifacts, their original purpose and current relevance.
-Remove for new projects without relevant history.]
+This repository does **not** claim:
 
-## Approach
+- an awarded Icelandic construction contract
+- operational wind assets
+- completed delivery in Iceland
+- project ownership
+- financing commitments
+- permitting rights
+- guaranteed pipeline access
 
-[How the project addresses the problem. State important constraints.]
+Any such claim must be supported by dated, public or explicitly approved evidence before publication.
 
-### Evidence and Research
+---
 
-[Sources, findings and assumptions that inform the approach.
-Link to detailed research when it exists.]
+## Geographic Scope
 
-### Architecture
+**Iceland only.**
 
-[OPTIONAL — components, relationships, operating model or system boundaries.
-Label proposed architecture explicitly. Remove if unnecessary.]
+Broader wind-industry research may be used for benchmarking, but the decision problem for this repository is entry into the Icelandic market.
 
-### Decisions
+---
 
-[OPTIONAL — material choices and their reasoning.
-Link to decision records when they exist.]
+## Research Program
 
-## Use or Review
+The research program is designed to answer decision-relevant questions across:
 
-[How to use available artifacts, run an implementation, reproduce an
-analysis, or review the work. Do not invent commands or dependencies.]
+1. **Market** — actual development pipeline, timing and scale.
+2. **Regulation** — permitting, environmental review and local requirements.
+3. **Grid** — connection constraints, transmission capacity and timing.
+4. **Procurement** — how infrastructure packages are awarded and qualified.
+5. **Execution** — foundations, erection, logistics, weather and site constraints.
+6. **Economics** — whether project participation can be commercially attractive.
+7. **Risk** — political, regulatory, reputational, contractual and delivery exposure.
+8. **Entry strategy** — what must be true before resources are committed.
 
-## Verification
+Primary-source evidence is prioritized. Material claims should be dated and traceable.
 
-[What was checked, against which criteria, and with what result.]
-[Separate passed, failed and not-run checks. State remaining uncertainty.]
-[For a concept: identify proposed verification, not completed validation.]
+See [Research Method](./docs/RESEARCH-METHOD.md).
 
-## Limitations
+---
 
-[Known limitations, exclusions, assumptions and unsupported uses.]
+## Decision Architecture
 
-## Project Evolution
+The project moves through bounded decision gates:
 
-<!-- OPTIONAL — remove for a new project without meaningful prior history. -->
+**DISCOVER → QUALIFY → INVESTIGATE → DECIDE → PREPARE → BID / STOP**
 
-### THEN — [date or period]
+The principal strategic output is a decision of:
 
-[Original objective and artifacts. Identify inherited material.]
+- **GO**
+- **CONDITIONAL GO**
+- **NO-GO**
 
-### TRANSITION — [date or period]
+A positive decision is not based on market attractiveness alone. It requires sufficient evidence on executable opportunity, qualification, economics and risk.
 
-[What changed, why, and the evidence linking the old and new direction.]
+See [Decision Framework](./docs/DECISION-FRAMEWORK.md).
 
-### NOW — [date or period]
+---
 
-[Current objective and actual state. Separate plans from existing work.]
+## Current Public State
 
-[Link to relevant commits, artifacts or decisions.
-Do not imply current objectives existed historically.]
+The project is presently in the **research and market-entry phase**.
 
-## AI-Assisted Work
+The next bounded milestone is a decision-grade Iceland market assessment that can support a documented GO / CONDITIONAL GO / NO-GO recommendation.
 
-<!-- OPTIONAL — include only when relevant and accurate. -->
+See [Current State](./docs/STATE.md).
 
-[Describe actual AI involvement in research, analysis, design,
-implementation, testing or documentation.]
+---
 
-Objectives, constraints and acceptance are human-directed.
-[State review and verification performed, including anything pending.]
-Final authority remains human.
+## Evidence Standard
+
+Material statements should distinguish:
+
+- **FACT** — directly supported by a source or artifact.
+- **INFERENCE** — reasoned conclusion from available evidence.
+- **ASSUMPTION** — working premise not yet verified.
+- **UNKNOWN** — unresolved information that may matter to the decision.
+- **DECISION** — explicit choice made after considering evidence and trade-offs.
+
+Where figures are used, record the unit, relevant date and source.
+
+---
+
+## Human-Directed AI
+
+AI may support:
+
+- research
+- source discovery
+- comparison
+- analysis
+- decision modeling
+- documentation
+- implementation support
+
+AI does not own the project and does not have final decision authority.
+
+Scope, commercial commitments, acceptance criteria and final decisions remain under human control.
+
+---
 
 ## Next Bounded Milestone
 
-<!-- OPTIONAL — remove if no further work is intended. -->
+**Outcome:** Complete a decision-grade Iceland market-entry assessment.
 
-**Outcome:** [One concrete deliverable or decision.]
-**Acceptance:** [Observable criteria.]
-**Out of scope:** [Explicit exclusions.]
-**Stop condition:** [When this milestone is complete or should be halted.]
+**Acceptance:**
+- material claims are source-traceable
+- primary Icelandic sources are prioritized
+- project pipeline is distinguished by maturity
+- grid and permitting constraints are explicit
+- procurement and qualification requirements are identified
+- economics and execution risks are bounded
+- unresolved unknowns are visible
+- a GO / CONDITIONAL GO / NO-GO recommendation is justified
+
+**Out of scope:** claiming contracts, partners, permits or operating capability that is not evidenced.
+
+**Stop condition:** when additional research is unlikely to materially change the entry decision or the risk boundary.
+
+---
+
+## Principle
+
+**Maximum decision value per unit of attention, time and resources.**
+
+Research exists to improve a decision—not to continue indefinitely.
+
+---
 
 ## License and Reuse
 
-[State actual terms for code, documents, data and third-party material.
-If unresolved, say "Reuse terms have not yet been determined."
-Do not imply that public availability grants unrestricted reuse.]
+Reuse terms for project research and documentation have not yet been determined.
