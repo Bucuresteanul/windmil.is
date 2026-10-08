@@ -159,25 +159,41 @@ Sólheimar is more advanced in environmental process than many early concepts, b
 
 ---
 
-## Advanced Environmental Work — Garpsdalur
+## Nearer-Horizon Candidate — Garpsdalur
 
-**Developer:** EM Orka  
-**Framework reference scale:** approximately 88 MW  
-**Environmental documentation:** project EIA material exists and remains under formal consideration / follow-up  
-**Entry classification:** ADVANCED DEVELOPMENT / HIGH ENVIRONMENTAL GATING RISK
+**Developer:** EM Orka, owned by Empower and Greenvolt  
+**Current developer scale:** 88.2 MW, 21 turbines  
+**Public stage:** advanced development, but Framework Programme release is not yet treated as resolved  
+**Entry classification:** HIGH COMMERCIAL RELEVANCE / REGULATORY GATED
 
-The 5th-phase Framework Programme board proposed Garpsdalur for the **waiting category**.
+The fifth-phase project board proposed Garpsdalur for the **waiting category**.
 
-A key unresolved issue recorded in the framework process is uncertainty around white-tailed eagle movement and collision risk.
+In July 2025, the energy minister proposed moving Garpsdalur to the utilisation category. That proposal is a positive maturity signal, but it should not be confused with a final construction release.
 
-### Implication
+By September 2026, Garpsdalur was still being considered in the sixth Framework Programme phase. Húnaþing vestra continued to identify white-tailed-eagle uncertainty as a reason not to move the project from waiting status until sufficient evidence exists.
 
-Garpsdalur deserves monitoring because substantial environmental work exists, but environmental and framework gates remain material.
+Current Greenvolt Power material describes the project as 88.2 MW / 21 turbines.
+
+### Why it moves up the watchlist
+
+- active, identifiable developer group
+- defined current project envelope
+- substantial historical environmental work
+- ministerial support for utilisation-category treatment has existed
+- construction scale is directly relevant to foundations and civil works
+
+### Why it is not bid-ready
+
+- framework status still requires confirmation
+- environmental / eagle issue remains material
+- no relevant open construction package has been established publicly
+- contracting architecture for civil / foundation scope is not yet established here
 
 **Primary sources**
-- https://island.is/s/hms/gagnagrunnur-umhverfismats/Vindorkugardur-i-Garpsdal-28-7-2020
-- https://www.ramma.is/media/almennt/Lokaskyrsla-5-afanga-rammaaaetlunar_13.5.2025.pdf
-- https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/302
+- https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2025-07-07-Radherra-leggur-til-ad-vindorkukosturinn-Garpsdalur-fari-i-orkunytingarflokk/
+- https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/malsnumer/2609018
+- https://geo.alta.is/reykholar/ask/
+- https://power.greenvolt.com/is/projects/
 
 ---
 
@@ -216,11 +232,11 @@ Before allocating attention, confirm:
 
 This is **not** evidence of an available contract.
 
-## Highest-value mature-project signals
+## Highest-value project signals
 
-- Brekknaheiði / Sauðanesháls — very large active development cluster, but still heavily gated.
+- Garpsdalur — nearer-horizon single-project candidate if regulatory release is achieved; no open relevant package established yet.
+- Brekknaheiði / Sauðanesháls — very large active development cluster and strongest long-term portfolio signal, but still heavily gated.
 - Sólheimar — advanced environmental process, but framework and social / environmental risk remain material.
-- Garpsdalur — advanced environmental work, but framework and eagle-related uncertainty remain material.
 
 ## Near-term conclusion
 

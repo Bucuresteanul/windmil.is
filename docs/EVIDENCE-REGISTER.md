@@ -100,18 +100,21 @@ Landsvirkjun publishes tender openings and award results. Its published record s
 
 ---
 
-## E-006 — Current regulatory administration gives wind projects a defined licensing path
+## E-006 — Wind projects are expressly inside the current Framework Programme
 
 **Type:** FACT  
-**Source:** Orkustofnun  
-**Accessed:** 2026-10-08  
-**Source link:** https://orkustofnun.is/en/natural_resources/wind
+**Date of law:** June 2026  
+**Source:** Alþingi — Law no. 66/2026  
+**Source link:** https://www.althingi.is/altext/157/s/1457.html
 
-Orkustofnun states that wind farms with installed capacity of 10 MW or more are required to be part of Iceland's framework planning process. It also states that the authority administers wind-energy utilisation for electricity production and grants operational licences under the Electricity Act.
+The current statutory rule covers wind project concepts where either:
 
-**Decision relevance:** Regulatory readiness is a gating issue for project maturity and timing.
+- installed electrical capacity is **10 MW or more**, or
+- a wind-energy structure exceeds **30 metres** at its highest point.
 
-**Unknown:** Project-specific planning, environmental, municipal and construction requirements must still be checked individually.
+**Decision relevance:** A project cannot be screened only by MW. Even a sub-10 MW trial project can fall inside the framework because of turbine height.
+
+**Source-reconciliation note:** Public authority summary pages that mention only a 10 MW threshold should not override the later enacted statutory text.
 
 ---
 
@@ -171,6 +174,144 @@ The next research should focus only on unknowns capable of changing the entry de
 7. What realistic package size, margin and mobilization cost would justify entry?
 
 ---
+
+
+---
+
+## E-008 — Foreign EEA/EFTA service providers can temporarily operate in Iceland, but posting obligations apply
+
+**Type:** FACT  
+**Accessed:** 2026-10-08  
+**Source:** Administration of Occupational Safety and Health / Ísland.is  
+**Source links:**
+- https://island.is/en/p/foreign-service-providers-and-posted-workers
+- https://island.is/en/p/foreign-service-providers-and-posted-workers/foreign-service-providers
+
+Foreign service providers established in the EEA, an EFTA state or the Faroe Islands may temporarily post employees to Iceland to provide services.
+
+A foreign service provider operating in Iceland for more than ten working days must submit required information to the Administration of Occupational Safety and Health. Icelandic labour-law and collective-agreement obligations apply to posted employees.
+
+**Decision relevance:** A foreign contractor can have a lawful temporary-services route, but mobilisation is not administratively frictionless.
+
+---
+
+## E-009 — Construction and civil-engineering clients face chain-liability obligations
+
+**Type:** FACT  
+**Accessed:** 2026-10-08  
+**Source:** Administration of Occupational Safety and Health / Ísland.is  
+**Source link:** https://island.is/en/p/foreign-service-providers-and-posted-workers/user-undertaking
+
+For construction and civil-engineering services, an Icelandic user undertaking has duties to verify that a foreign service provider has submitted required information and may face joint and several liability for unpaid minimum wages and related employee claims.
+
+**Decision relevance:** Payroll, working-time, collective-agreement and subcontractor compliance are not back-office details. They can affect whether an Icelandic customer or main contractor is willing to onboard a foreign subcontractor.
+
+---
+
+## E-010 — Icelandic tax and VAT registration can apply to foreign contractors
+
+**Type:** FACT  
+**Accessed:** 2026-10-08  
+**Source:** Iceland Revenue and Customs  
+**Source links:**
+- https://www.skatturinn.is/english/companies/contractors/
+- https://www.skatturinn.is/english/companies/value-added-tax/
+- https://www.skatturinn.is/english/company-registration/register-a-company/registration-of-a-foreign-branch/
+
+Iceland Revenue and Customs states that business activities and services performed in Iceland by non-residents can be subject to Icelandic income tax. Foreign taxable persons selling taxable goods or services in Iceland are subject to VAT registration when the statutory conditions are met.
+
+Where a foreign taxable person has no permanent establishment in Iceland, VAT rules can require an Iceland-domiciled representative.
+
+Registration of an Icelandic branch is an available corporate route; the tax authority states that complete branch applications are generally processed in approximately two to three weeks.
+
+**Decision relevance:** Entity structure, VAT, tax, payroll and representation should be designed before bid mobilisation—not after award.
+
+**Boundary:** This does not establish that an Icelandic branch is mandatory for every contract.
+
+---
+
+## E-011 — Landsvirkjun imposes explicit contractor HSE and supplier requirements
+
+**Type:** FACT  
+**Accessed:** 2026-10-08  
+**Source:** Landsvirkjun  
+**Source links:**
+- https://www.landsvirkjun.com/procurement
+- https://www.landsvirkjun.com/safety/safety-for-contractors
+- https://www.landsvirkjun.com/safety-and-environmental-training
+- https://www.landsvirkjun.com/code-of-conduct
+
+Landsvirkjun requires contractors to operate under documented risk assessment, safety training, PPE, incident reporting and work-permit controls where applicable.
+
+Its contractor induction includes a general Iceland safety course and a Landsvirkjun-specific course. Landsvirkjun also states that suppliers must comply with its supplier code of conduct.
+
+**Decision relevance:** HSE readiness is an entry credential, not a later project-administration task.
+
+---
+
+## E-012 — Landsvirkjun's procurement route is formal and portal-based
+
+**Type:** FACT  
+**Accessed:** 2026-10-08  
+**Source:** Landsvirkjun Procurement  
+**Source links:**
+- https://www.landsvirkjun.com/procurement
+- https://www.landsvirkjun.com/procurement/tenders
+
+Landsvirkjun states that all open procurement processes are published on its tender platform, including processes above and below procurement thresholds and market surveys. Suppliers must register and sign in to participate.
+
+The Vaðalda turbine-generator procurement was run through the Achilles qualification system, while published award records show other packages being handled through formal tender procedures.
+
+**Decision relevance:** A viable Landsvirkjun entry route requires procurement-platform readiness and package-specific prequalification intelligence.
+
+**Boundary:** Achilles should not be assumed to be mandatory for every future civil package without checking the specific procurement.
+
+---
+
+## E-013 — Garpsdalur is current, material and still regulatorily gated
+
+**Type:** FACT + STATUS RECONCILIATION  
+**Evidence dates:** 2025-07 to 2026-09  
+**Sources:** Government of Iceland; Húnaþing vestra; Reykhólahreppur planning record; Greenvolt Power / EM Orka  
+**Source links:**
+- https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2025-07-07-Radherra-leggur-til-ad-vindorkukosturinn-Garpsdalur-fari-i-orkunytingarflokk/
+- https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/malsnumer/2609018
+- https://geo.alta.is/reykholar/ask/
+- https://power.greenvolt.com/is/projects/
+
+In July 2025 the energy minister proposed moving Garpsdalur into the utilisation category.
+
+That proposal did **not** justify treating the project as finally released for construction. In September 2026, Garpsdalur was still being considered in the sixth Framework Programme phase, and Húnaþing vestra continued to describe the unresolved white-tailed-eagle issue as a reason not to move it out of the waiting category until uncertainty is resolved.
+
+The current Greenvolt Power project page describes Garpsdalur as an **88.2 MW, 21-turbine** development.
+
+**Decision relevance:** Garpsdalur may be one of the most commercially relevant future construction candidates, but regulatory release must be confirmed before it is treated as procurement-ready.
+
+---
+
+## FINDING-002 — Qualification is a parallel workstream, not a final-stage checklist
+
+**Classification:** INFERENCE  
+**Confidence:** High.
+
+The evidence supports preparing two tracks in parallel:
+
+1. **Opportunity track** — project, package, timing, buyer, procurement route.
+2. **Qualification track** — legal presence, tax/VAT, posted workers, HSE, regulated roles, machine rights, insurance and customer-specific onboarding.
+
+Waiting for a tender before understanding the second track would create avoidable bid risk.
+
+---
+
+## FINDING-003 — Garpsdalur and the wpd portfolio serve different entry horizons
+
+**Classification:** INFERENCE  
+**Confidence:** Moderate.
+
+- **Garpsdalur** is a more mature single-project signal and should be watched for regulatory release and procurement architecture.
+- **wpd Ísland** offers the strongest visible multi-project relationship signal, but its major concepts remain earlier and heavily gated.
+
+The two should therefore be tracked differently rather than forced into one ranking.
 
 # Stop Rule
 

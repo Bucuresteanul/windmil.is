@@ -2,21 +2,51 @@
 
 **Evidence cutoff:** 2026-10-08
 
-This file is intentionally bounded.
-
-It is a public prioritisation of research effort, not a confidential sales plan and not a claim of commercial access.
+This is a public prioritisation of research effort, not a confidential sales plan and not a claim of commercial access.
 
 ---
 
-## Priority 1 — Developer Portfolio Intelligence
+## Priority 1A — Garpsdalur: Watch for Regulatory Release + Procurement
 
-### wpd Ísland
+**Developer:** EM Orka / Empower / Greenvolt Power  
+**Current published project:** 88.2 MW, 21 turbines  
+**Status:** advanced development, regulatorily gated
 
-**Why first**
+### Why it is high priority
 
-wpd publicly presents a multi-project Icelandic portfolio rather than a single isolated project.
+Garpsdalur has several features that make it commercially more relevant than a generic early-stage concept:
 
-The portfolio includes:
+- current identifiable developer group
+- defined current project size
+- substantial environmental work
+- ministerial proposal in 2025 to move it toward utilisation status
+- direct relevance to civil, foundation and infrastructure work if released
+
+### Blocking facts
+
+As of the current evidence cutoff:
+
+- final utilisation status is not treated as resolved
+- the project was still under sixth-phase Framework Programme consideration in September 2026
+- white-tailed-eagle uncertainty remains a material issue
+- no public evidence reviewed here establishes an open relevant works package
+
+### Trigger
+
+Deepen commercial preparation when one of these occurs:
+
+- final framework / utilisation decision
+- grid milestone
+- financing / construction timing announcement
+- procurement notice
+- civil / foundation contracting signal
+
+---
+
+## Priority 1B — wpd Ísland: Portfolio Relationship Intelligence
+
+wpd publicly presents a multi-project Icelandic portfolio:
+
 - Brekknaheiði
 - Sauðanesháls
 - Sauðanesháls trial project
@@ -25,7 +55,11 @@ The portfolio includes:
 - Viðvíkurheiði
 - Þorlákshafnargarður
 
-Several are large enough to create material civil and erection scope if they progress.
+### Why it matters
+
+Several projects are large enough to create material civil and erection scope if they progress.
+
+The portfolio offers a potentially more durable strategic relationship than pursuing one isolated project.
 
 ### What must be learned next
 
@@ -34,34 +68,24 @@ Several are large enough to create material civil and erection scope if they pro
 - grid strategy
 - anticipated contracting model
 - whether civil / foundation packages would be EPC, main-contract or subcontracted
+- supplier / contractor onboarding route
 - qualification timing
 
 No public assumption is made that packages are currently open.
 
 ---
 
-## Priority 2 — Mature Non-wpd Projects
-
-### Sólheimar — Qair Iceland
+## Priority 2 — Sólheimar / Qair Iceland
 
 Reason to monitor:
+
 - environmental-impact assessment opinion exists
 - current project description is large enough to be relevant
 
 Reasons not to over-prioritise yet:
-- framework waiting status
-- material landscape / bird / social-licence concerns
-- no public evidence reviewed here of an open relevant works package
 
-### Garpsdalur — EM Orka
-
-Reason to monitor:
-- substantial environmental documentation exists
-- project has persisted through a long development process
-
-Reasons not to over-prioritise yet:
-- framework waiting status
-- unresolved white-tailed-eagle issue
+- framework treatment remains material
+- landscape / bird / social-licence concerns
 - no public evidence reviewed here of an open relevant works package
 
 ---
@@ -78,6 +102,7 @@ Monitor without spending deep-research resources until a maturity trigger change
 ### Trigger for deeper work
 
 Any one of:
+
 - movement in Framework Programme classification
 - formal environmental milestone
 - confirmed grid-development step
@@ -92,6 +117,7 @@ Any one of:
 ### Hróðnýjarstaðir / Storm 1
 
 Do not allocate major effort until current:
+
 - ownership
 - capacity
 - regulatory status
@@ -104,16 +130,29 @@ Historical forecasts are not treated as current facts.
 
 ---
 
+# Parallel Priority — Qualification Readiness
+
+Do not wait for a tender to start understanding:
+
+- foreign-service-provider obligations
+- tax and VAT structure
+- regulated construction responsibility
+- machinery-right recognition
+- payroll / collective agreements
+- HSE
+- insurance / bonding
+- package-specific prequalification
+
+See [Qualification & Access Gate](./QUALIFICATION-AND-ACCESS.md).
+
+---
+
 # Current Decision
 
 **CONDITIONAL CONTINUE — RESEARCH / MARKET ENTRY**
 
-Reason:
+There is enough evidenced project activity to justify continued work, but not enough evidence yet to justify mobilisation, bid expenditure or a construction-entry commitment.
 
-There is enough evidenced project activity to justify continued market-entry work, but not enough public evidence yet to justify mobilisation, bid expenditure or a construction-entry commitment.
-
-## The next decisive evidence is not another market-size number.
-
-It is evidence of:
+The next decisive evidence is:
 
 **an open or upcoming work package + a viable qualification route + acceptable timing and economics.**

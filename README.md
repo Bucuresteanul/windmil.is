@@ -94,6 +94,8 @@ See:
 - [Public Project Pipeline](./docs/PIPELINE.md)
 - [Regulatory Gate](./docs/REGULATORY-GATE.md)
 - [Public Entry Priorities](./docs/ENTRY-PRIORITIES.md)
+- [Qualification & Access Gate](./docs/QUALIFICATION-AND-ACCESS.md)
+- [Decision Dashboard](./docs/DECISION-DASHBOARD.md)
 - [Research Method](./docs/RESEARCH-METHOD.md)
 - [Decision Framework](./docs/DECISION-FRAMEWORK.md)
 - [Current State](./docs/STATE.md)
