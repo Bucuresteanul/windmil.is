@@ -33,6 +33,7 @@ The project therefore separates:
 
 - A defined Iceland-focused market-entry initiative.
 - A structured research program covering market, regulation, grid, project pipeline, procurement, execution conditions and commercial risk.
+- A public evidence register with dated primary-source findings.
 - A public GitHub hub for project documentation and decision logic.
 - A public project domain at https://windmil.is.
 
@@ -87,7 +88,26 @@ The research program is designed to answer decision-relevant questions across:
 
 Primary-source evidence is prioritized. Material claims should be dated and traceable.
 
-See [Research Method](./docs/RESEARCH-METHOD.md).
+See:
+
+- [Evidence Register](./docs/EVIDENCE-REGISTER.md)
+- [Research Method](./docs/RESEARCH-METHOD.md)
+- [Decision Framework](./docs/DECISION-FRAMEWORK.md)
+- [Current State](./docs/STATE.md)
+
+---
+
+## First Bounded Finding
+
+Current primary-source evidence shows that Vaðalda validates utility-scale wind construction and operation in Iceland, but its main turbine package and principal foundations / civil-works package are already awarded.
+
+The immediate research target therefore shifts toward:
+
+**future projects · unawarded packages · qualification · subcontracting access · economics**
+
+This is a targeting conclusion, not a final GO / NO-GO decision.
+
+See [Evidence Register](./docs/EVIDENCE-REGISTER.md).
 
 ---
 
@@ -105,8 +125,6 @@ The principal strategic output is a decision of:
 
 A positive decision is not based on market attractiveness alone. It requires sufficient evidence on executable opportunity, qualification, economics and risk.
 
-See [Decision Framework](./docs/DECISION-FRAMEWORK.md).
-
 ---
 
 ## Current Public State
@@ -114,8 +132,6 @@ See [Decision Framework](./docs/DECISION-FRAMEWORK.md).
 The project is presently in the **research and market-entry phase**.
 
 The next bounded milestone is a decision-grade Iceland market assessment that can support a documented GO / CONDITIONAL GO / NO-GO recommendation.
-
-See [Current State](./docs/STATE.md).
 
 ---
 
@@ -153,13 +169,13 @@ Scope, commercial commitments, acceptance criteria and final decisions remain un
 
 ## Next Bounded Milestone
 
-**Outcome:** Complete a decision-grade Iceland market-entry assessment.
+**Outcome:** Identify the first credible post-Vaðalda entry path into Icelandic wind infrastructure.
 
 **Acceptance:**
 - material claims are source-traceable
 - primary Icelandic sources are prioritized
-- project pipeline is distinguished by maturity
-- grid and permitting constraints are explicit
+- future project pipeline is distinguished by maturity
+- unawarded work packages are separated from already-contracted scope
 - procurement and qualification requirements are identified
 - economics and execution risks are bounded
 - unresolved unknowns are visible
