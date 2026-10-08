@@ -91,6 +91,9 @@ Primary-source evidence is prioritized. Material claims should be dated and trac
 See:
 
 - [Evidence Register](./docs/EVIDENCE-REGISTER.md)
+- [Public Project Pipeline](./docs/PIPELINE.md)
+- [Regulatory Gate](./docs/REGULATORY-GATE.md)
+- [Public Entry Priorities](./docs/ENTRY-PRIORITIES.md)
 - [Research Method](./docs/RESEARCH-METHOD.md)
 - [Decision Framework](./docs/DECISION-FRAMEWORK.md)
 - [Current State](./docs/STATE.md)
