@@ -73,6 +73,20 @@ Not treated as the primary greenfield entry target.
 
 ---
 
+## Procurement Precedent
+
+**Status:** POSITIVE SIGNAL
+
+The Vaðalda structures tender received seven bids and demonstrates both consortium and foreign-corporate participation.
+
+Carbon cost was explicitly present in published tender comparisons.
+
+This materially weakens the assumption that market access necessarily requires a fully Icelandic standalone contractor from day one.
+
+See [Vaðalda Procurement Benchmark](./VADALDA-PROCUREMENT-BENCHMARK.md).
+
+---
+
 ## Qualification
 
 **Status:** PARTIAL — R1

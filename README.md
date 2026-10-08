@@ -95,6 +95,7 @@ See:
 - [Regulatory Gate](./docs/REGULATORY-GATE.md)
 - [Public Entry Priorities](./docs/ENTRY-PRIORITIES.md)
 - [Qualification & Access Gate](./docs/QUALIFICATION-AND-ACCESS.md)
+- [Vaðalda Procurement Benchmark](./docs/VADALDA-PROCUREMENT-BENCHMARK.md)
 - [Decision Dashboard](./docs/DECISION-DASHBOARD.md)
 - [Research Method](./docs/RESEARCH-METHOD.md)
 - [Decision Framework](./docs/DECISION-FRAMEWORK.md)

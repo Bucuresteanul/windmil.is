@@ -313,6 +313,38 @@ Waiting for a tender before understanding the second track would create avoidabl
 
 The two should therefore be tracked differently rather than forced into one ranking.
 
+
+---
+
+## E-014 — Foreign and consortium participation occurred in the Vaðalda structures tender
+
+**Type:** FACT  
+**Tender opening:** 2025-03-12  
+**Sources:** Landsvirkjun Procurement; AOSH foreign-service-provider register  
+**Source links:**
+- https://www.landsvirkjun.com/procurement/tenders
+- https://island.is/en/posted-workers/registered-foreign-service-providers
+
+Landsvirkjun published seven bids for BUF10 Structures. The bidder list included both Icelandic combinations and foreign corporate participants, including MFB GmbH / MFB Bau GmbH in consortium bids and LNS AS as a bidder.
+
+The current AOSH register separately lists MFB GmbH and Leonhard Nilsen & Sønner AS as registered foreign service providers.
+
+**Decision relevance:** Foreign construction participation in Iceland is not merely a theoretical legal possibility. A future entry structure can rationally evaluate direct foreign service provision, consortium participation and local partnership rather than assuming only one route.
+
+**Boundary:** This does not prove that these companies' current AOSH registrations arise from Vaðalda, nor that the same structure will satisfy a future tender.
+
+---
+
+## E-015 — Carbon cost was explicitly published in Vaðalda civil tender comparisons
+
+**Type:** FACT  
+**Source:** Landsvirkjun Procurement  
+**Source link:** https://www.landsvirkjun.com/procurement/tenders
+
+For both BUF05 road construction and BUF10 structures, Landsvirkjun published carbon-cost figures alongside tender price information.
+
+**Decision relevance:** A future cost model for civil works should prepare for environmental / carbon evaluation as a competitive variable, not only nominal price.
+
 # Stop Rule
 
 Do not expand this register into a general Iceland energy encyclopedia.

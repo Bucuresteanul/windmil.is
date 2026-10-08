@@ -22,6 +22,16 @@ These gates should be worked in parallel with project screening.
 
 ## Gate A — Procurement Access
 
+### Observed market evidence
+
+Vaðalda's principal structures package provides a useful precedent: Landsvirkjun published seven bids, including consortium structures and foreign corporate participants. Current AOSH records separately show foreign construction companies such as MFB GmbH and Leonhard Nilsen & Sønner AS registered as foreign service providers in Iceland.
+
+This demonstrates that foreign participation is practical, while leaving the optimal structure for any future package open.
+
+See [Vaðalda Procurement Benchmark](./VADALDA-PROCUREMENT-BENCHMARK.md).
+
+
+
 ### Landsvirkjun
 
 Landsvirkjun states that:
